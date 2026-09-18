@@ -60,7 +60,6 @@ namespace ExamOOP
 
             Console.WriteLine($"\nYour Grade is {studentGrade} from {totalGrade}");
             Console.WriteLine($"Time = {stopwatch.Elapsed}");
-
             Console.WriteLine("Thank you");
         }
 
